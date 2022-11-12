@@ -6,10 +6,16 @@
 I Have 2 years of Experiance in Devops
 
 
-🔭 I’m currently working on Jenkins , Docker , Terraform , Linux , AWS , Ansible , Nexus , etc  
+🔭 I’m working on JENKINS , DOCKER , TERRAFORM , LINUX , AWS , ANSIBLE , NEXUS , ETC. 
+🌱 I’m currently Learning Python
+
+All of my projects will be available soon : ..............
 
 📫 How to reach me: mdashrafadib@gmail.com
 
+
+⚡ Fun fact I think am very addicted to learn New Things
+Ask me about [ ANYTHING ABOUT Devops IN WHICH AM EXPERIENCED ]
 <!--
 **mdashrafadib/mdashrafadib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
