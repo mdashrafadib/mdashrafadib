@@ -1,8 +1,17 @@
-### Hi there 👋
+
+   ### A passionate and Security focus Devops Engineer from India 👋
+### There are only Two types of Companies, Those That Have Been Hacked and Those That Will Be 🤔 
+
+
+I Have 2 years of Experiance in Devops
+
+
+🔭 I’m currently working on Jenkins , Docker , Terraform , Linux , AWS , Ansible , Nexus , etc  
+
+📫 How to reach me: mdashrafadib@gmail.com
 
 <!--
 **mdashrafadib/mdashrafadib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
