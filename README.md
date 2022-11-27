@@ -9,7 +9,6 @@ I Have 2 years of Experiance in Devops
 🔭 I’m working on JENKINS , DOCKER , TERRAFORM , LINUX , AWS , ANSIBLE , NEXUS , SONARQUBE ETC. 
 🌱 I’m currently Learning Python
 
-All of my projects will be available soon : ..............
 
 📫 How to reach me: mdashrafadib@proton.me
 
