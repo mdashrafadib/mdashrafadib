@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="GitLab" width="40" height="40"/> </a>
 </a><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1400/1*74WSL1iLncYoRcTTJqyKxg.gif" alt="Ansible" width="40" height="40"/> </a>
 </p>
 
