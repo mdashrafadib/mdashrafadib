@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 </a><a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> </a>
 
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://about.gitlab.com/images/press/press-kit-icon.svg" alt="GitLab" width="40" height="40"/> </a>
-</a><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png" alt="Terraform" width="40" height="40"/> </a>
+</a><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="40" height="40"/> </a>
 </p>
 
