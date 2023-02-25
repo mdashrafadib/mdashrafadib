@@ -8,7 +8,7 @@
 
 
 📫 How to reach me: mdashrafadib@proton.me
-📫 Linkedin : https://www.linkedin.com/in/md-ashraf-adib/
+📫 Linkedin : https://www.linkedin.com/in/mdashrafadib/
 
 
 ⚡ Fun fact I think am very addicted to learn New Things
