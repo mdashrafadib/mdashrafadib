@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Programing:</h3>
 
-<p align="left"> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png" alt="aws" width="70" height="60"/> </a><a href="https://react.dev/](https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" alt="aws" width="70" height="60"/> </a>
+<p align="left"> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png" alt="aws" width="100" height="60"/> </a><a href="https://www.w3schools.com/" target="_blank" rel="noreferrer"> <img src="https://images.velog.io/images/gga4638/post/6d9df8cb-5086-4fa9-83d1-521fd6a2cb27/image.png" alt="HTML,CSS,javascript" width="70" height="60"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*_6ooq0R60ba3UT5c-QVemA.png" alt="aws" width="70" height="60"/> </a>
 
 </p>
