@@ -1,18 +1,18 @@
 
-   ### A passionate and Security focus Devops Engineer from India 👋
+   ### A passionate Security focus DevOps Engineer and React Developer from India 👋
 ### There are only Two types of Companies, Those That Have Been Hacked and Those That Will Be 🤔 
 
 
-🔭 I’m working on JENKINS , DOCKER , TERRAFORM , LINUX , AWS , ANSIBLE , NEXUS , SONARQUBE ETC. 
+🔭 I’m working on JENKINS, DOCKER, TERRAFORM, LINUX, AWS, ANSIBLE, NEXUS, SONARQUBE ETC. 
 🌱 I’m currently Learning Python
 
 
 📫 How to reach me: mdashrafadib@proton.me
-📫 Linkedin : https://www.linkedin.com/in/mdashrafadib/
+📫 Linkedin: https://www.linkedin.com/in/mdashrafadib/
 
 
-⚡ Fun fact I think am very addicted to learn New Things
-Ask me about [ ANYTHING ABOUT Devops IN WHICH AM EXPERIENCED ]
+⚡ Fun fact I think I am very addicted to Learn New Things
+Ask me about [ ANYTHING ABOUT DevOps and React Development IN WHICH AM EXPERIENCED ]
 <!--
 **mdashrafadib/mdashrafadib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Programing:</h3>
-</a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png" alt="REACT" width="40" height="40"/> </a>
-</a><a href="[https://react.dev/](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)" target="_blank" rel="noreferrer"> <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" alt="Java Script" width="40" height="40"/> </a>
+</a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png" alt="REACT" width="50" height="50"/> </a></a><a href="[https://react.dev/](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)" target="_blank" rel="noreferrer"> <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" alt="Java Script" width="50" height="50"/> </a>
 
 
 <h3 align="left">Devops Tools & Language:</h3>
