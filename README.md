@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Programing:</h3>
-</a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png" alt="REACT" width="60" height="50"/> </a></a><a href="[https://react.dev/](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)" target="_blank" rel="noreferrer"> <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" alt="Java Script" width="60" height="50"/> </a>
+</a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png" alt="REACT" width="70" height="50"/> </a></a><a href="[https://react.dev/](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)" target="_blank" rel="noreferrer"> <img src="https://www.ankitweblogic.com/javascript/js_img/javascript.png" alt="Java Script" width="70" height="50"/> </a>
 
 
 <h3 align="left">Devops Tools & Language:</h3>
