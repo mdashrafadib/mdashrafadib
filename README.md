@@ -1,18 +1,24 @@
 
-   ### A passionate Security focus DevOps Engineer and React Developer from India 👋
-### There are only Two types of Companies, Those That Have Been Hacked and Those That Will Be 🤔 
+👋 Founder | Security-Focused DevOps Engineer | React Developer
+Hi there! I’m Md. Ashraf Adib, the Founder of SoftDev Solution—a software company specializing in web development, mobile apps, and AI solutions. As a passionate tech enthusiast, I continue to leverage my expertise in DevOps engineering and React development while building innovative solutions for businesses.
 
+🚀 About Me
+Founder at SoftDev Solution: Helping businesses succeed with tailored software solutions.
+Security-Focused Mindset: There are only two types of companies—those that have been hacked and those that will be. I work to prevent the inevitable.
+Tech Expertise: Proficient in tools and technologies like Jenkins, Docker, Terraform, Linux, AWS, Ansible, Nexus, and SonarQube, while exploring Python to expand my capabilities.
+Continuous Learner: Addicted to learning and experimenting with cutting-edge tech!
+🔭 Current Focus
+Building innovative software and AI solutions at SoftDev Solution.
+Developing tools and practices to enhance DevOps pipelines and web applications.
+Empowering businesses with secure, scalable, and efficient software.
+🌟 Fun Fact
+I thrive on solving complex problems and love learning new things. Ask me anything about DevOps, React, or software development!
 
-🔭 I’m working on JENKINS, DOCKER, TERRAFORM, LINUX, AWS, ANSIBLE, NEXUS, SONARQUBE ETC. 
-🌱 I’m currently Learning Python
+📫 How to Reach Me
+Website: https://softdevsolution.com
+Email: info@softdevsolution.com
+LinkedIn: mdashrafadib
 
-
-📫 How to reach me: mdashrafadib@proton.me
-📫 Linkedin: https://www.linkedin.com/in/mdashrafadib/
-
-
-⚡ Fun fact I think I am very addicted to Learn New Things
-Ask me about [ ANYTHING ABOUT DevOps and React Development IN WHICH AM EXPERIENCED ]
 <!--
 **mdashrafadib/mdashrafadib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
