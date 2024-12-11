@@ -1,5 +1,5 @@
 
-👋 Founder | Security-Focused DevOps Engineer | React Developer
+👋 Founder | Philanthropist | Security-Focused DevOps Engineer
 Hi there! I’m Md. Ashraf Adib, the Founder of SoftDev Solution—a software company specializing in web development, mobile apps, and AI solutions. As a passionate tech enthusiast, I continue to leverage my expertise in DevOps engineering and React development while building innovative solutions for businesses.
 
 🚀 About Me
