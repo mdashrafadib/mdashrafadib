@@ -1,23 +1,34 @@
+👋 Founder | Philanthropist | Security-Focused Leader
 
-👋 Founder | Philanthropist | Security-Focused DevOps Engineer
-Hi there! I’m Md. Ashraf Adib, the Founder of SoftDev Solution—a software company specializing in web development, mobile apps, and AI solutions. As a passionate tech enthusiast, I continue to leverage my expertise in DevOps engineering and React development while building innovative solutions for businesses.
+Hi there! I’m Md. Ashraf Adib, the Founder of Veloxsoft Enterprises, 
+a company dedicated to building reliable and future-ready digital solutions.
+I’m driven by a mission to create meaningful impact through technology,
+leadership, and business innovation.
 
 🚀 About Me
-Founder at SoftDev Solution: Helping businesses succeed with tailored software solutions.
-Security-Focused Mindset: There are only two types of companies—those that have been hacked and those that will be. I work to prevent the inevitable.
-Tech Expertise: Proficient in tools and technologies like Jenkins, Docker, Terraform, Linux, AWS, Ansible, Nexus, and SonarQube, while exploring Python to expand my capabilities.
-Continuous Learner: Addicted to learning and experimenting with cutting-edge tech!
+
+I’ve always believed that real success comes from building value—not just products. 
+As an entrepreneur and philanthropist, I focus on developing solutions that empower businesses, create opportunities,
+and contribute to society in positive ways. My journey has been shaped by vision, resilience,
+and a deep commitment to growth with integrity.
+
 🔭 Current Focus
-Building innovative software and AI solutions at SoftDev Solution.
-Developing tools and practices to enhance DevOps pipelines and web applications.
-Empowering businesses with secure, scalable, and efficient software.
+
+At Veloxsoft Enterprises, my focus is on expanding our business ecosystem by:
+Developing scalable software and AI-driven solutions for enterprises
+Building long-term partnerships with clients across industries
+Growing teams, operations, and services with a sustainability mindset
+Enhancing brand presence and market influence globally
+
 🌟 Fun Fact
-I thrive on solving complex problems and love learning new things. Ask me anything about DevOps, React, or software development!
+
+I’m obsessed with turning ideas into profitable ventures and love exploring new ways to scale a business—whether through innovation, 
+market strategy, or collaboration.
 
 📫 How to Reach Me
-Website: https://softdevsolution.com
-Email: info@softdevsolution.com
-LinkedIn: mdashrafadib
+Website: https://veloxsoft.in
+Email: info@veloxsoft.in
+LinkedIn: https://www.linkedin.com/in/md-ashraf-adib
 
 <!--
 **mdashrafadib/mdashrafadib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
